@@ -1,0 +1,11 @@
+{
+  "name": "autopay-examples-partner-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/autopayeng/examples-partner-api.git",
+  "author": "AUTOPAY <autopaydevops@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.0"
+  }
+}
